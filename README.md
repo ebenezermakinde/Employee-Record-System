@@ -1,0 +1,1 @@
+This is a simple employee recording system developed with Python and the Django Framework
